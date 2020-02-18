@@ -1,7 +1,7 @@
 # mysql-install
 how-to-install-mysql-on-linux
 
-Quick setup: Copy and Paste
+###Quick setup: Copy and Paste
 
 ```
 root@linuxserver:~# sudo apt update && sudo apt install mysql-server
@@ -22,6 +22,8 @@ Remove test database and access to it? (Press y|Y for Yes, any other key for No)
 Reload privilege tables now? (Press y|Y for Yes, any other key for No) :
 
 ```
+
+###Complete setup
 
 Install the mysql-server package:
 
