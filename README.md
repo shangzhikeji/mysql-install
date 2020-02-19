@@ -5,7 +5,6 @@ how-to-install-mysql-on-linux
 
 ```
 root@linuxserver:~# sudo apt update && sudo apt install mysql-server
-root@linuxserver:~# sudo apt install mysql-server
 root@linuxserver:~# sudo service mysql status
 root@linuxserver:~# sudo mysql_secure_installation
 //You will be asked if you want to set up the Validate Password Plugin. Press ENTER.
